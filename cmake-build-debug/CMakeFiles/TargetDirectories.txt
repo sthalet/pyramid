@@ -1,0 +1,3 @@
+C:/Users/Yiğit Mert/CLionProjects/pyramid/cmake-build-debug/CMakeFiles/pyramid.dir
+C:/Users/Yiğit Mert/CLionProjects/pyramid/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Yiğit Mert/CLionProjects/pyramid/cmake-build-debug/CMakeFiles/rebuild_cache.dir
